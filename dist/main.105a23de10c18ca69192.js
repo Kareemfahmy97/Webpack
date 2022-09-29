@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=()=>{console.log("This is helper file")},e=()=>{console.log("Hello from input code")},l=()=>{console.log("Bye from Say bye file  "+e)};console.log("Welcome Web Pack "+(()=>{console.log("Main App has  "+o+" "+l),console.log("Prove the hash code of the bundle will need to update")}))})();
